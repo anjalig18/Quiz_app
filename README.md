@@ -10,7 +10,9 @@ A simple quiz application built with HTML, CSS, and JavaScript.
 
 ## Quick Links
 
-- [Live Demo](#) (Not available yet)
+- [Live image]
+
+![image](https://github.com/anjalig18/Quiz_app/assets/92169945/b107f8d8-8ae0-409c-8697-272cfabef6be)
 
 ## Description
 
