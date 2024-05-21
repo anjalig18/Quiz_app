@@ -12,7 +12,7 @@ A simple quiz application built with HTML, CSS, and JavaScript.
 
 - [Live image]
 
-![image](https://github.com/anjalig18/Quiz_app/assets/92169945/b107f8d8-8ae0-409c-8697-272cfabef6be)
+![image](https://github.com/Vlakoosh/open-source-image-assets/blob/main/image_2024-05-21_190258417.png?raw=true)
 
 ## Description
 
